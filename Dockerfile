@@ -1,4 +1,4 @@
-FROM		hauptmedia/java:oracle-java7
+FROM		hauptmedia/java:oracle-java8
 
 ENV     	DEBIAN_FRONTEND noninteractive
 
